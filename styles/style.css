@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://mobimg.b-cdn.net/v3/fetch/55/55cf688ec1b626278690d883c2a936eb.jpeg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position-y: -40%;
+}
+
+.Guerrier{
+    color: red;
+}
+.Pretre{
+    color: orange;
+}
+.Mage{
+    color: blue;
+}
+.Moine{
+    color: green;
+}
+.Voleur{
+    color: gray;
+}
+.Destroy{
+    color: black;
+}

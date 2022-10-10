@@ -1,0 +1,2 @@
+$atk = random_int(15,20);
+        $vie = random_int(85,120);
